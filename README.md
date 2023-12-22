@@ -3,8 +3,8 @@
 Quizz desenvolvido durante o curso `Explorando o Angular Framework` durante o 'Bootcamp Desenvolvimento Frontend com Angular da DIO (Digital Innovation One).
 
 <p align="center">
-  <img src=".github/" width="100%">
-  <img src=".github/" width="100%">
+  <img src=".github/Quizz-Question.jpeg" width="100%">
+  <img src=".github/Quizz-Result.jpeg" width="100%">
 </p>
 
 <br>
@@ -18,12 +18,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - **[Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)**
 - **[Typescript](https://www.typescriptlang.org/)**
 - **[Angular](https://angular.io/)**
-
-<br>
-
-## 🎲 DEMO
-
-
 
 <br>
 
